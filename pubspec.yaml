@@ -46,8 +46,11 @@ dev_dependencies:
 # The following section is specific to Flutter packages.
 flutter:
 
+
   # Enables the Material Design UI library.
   uses-material-design: true
+  assets:
+    - assets/images/
 
   # To add assets to your application, add an assets section, like this:
   # assets:
